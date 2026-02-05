@@ -142,9 +142,8 @@ If you want to add more accessibility issues for training:
 
 1. **Don't peek at the code first**: Try to identify issues through testing before checking `ACCESSIBILITY_ISSUES.md`
 2. **Use multiple tools**: Combine automated tools with manual testing
-3. **Test with real users**: If possible, test with actual screen reader users
-4. **Document everything**: Keep detailed notes of issues found
-5. **Suggest fixes**: For each issue, suggest how to fix it
+3. **Document everything**: Keep detailed notes of issues found
+4. **Suggest fixes**: For each issue, suggest how to fix it
 
 ## Resources
 
